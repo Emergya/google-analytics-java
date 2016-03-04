@@ -3,11 +3,11 @@ package com.brsanthu.googleanalytics;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
-import org.junit.Test;
+import org.junit.Ignore;
 
 public class AwtRequestParameterDiscovererTest {
 	
-	@Test
+	@Ignore
 	public void testDiscoverParameters() throws Exception {
 		AwtRequestParameterDiscoverer discoverer = new AwtRequestParameterDiscoverer();
 		DefaultRequest request = new DefaultRequest();
