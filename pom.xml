@@ -33,7 +33,7 @@
 		<url>https://github.com/Emergya/google-analytics-java</url>
 		<connection>scm:git:git@github.com:Emergya/google-analytics-java</connection>
 		<developerConnection>scm:git:git@github.com:Emergya/google-analytics-java</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>google-analytics-java-1.1.3-SNAPSHOT</tag>
   	</scm>
   	
   	<issueManagement>
